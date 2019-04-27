@@ -1,2 +1,2 @@
-# CSCI3287-
+# CSCI3287
 Database and Information System
